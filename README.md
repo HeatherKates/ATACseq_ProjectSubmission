@@ -24,7 +24,7 @@ Upon submission, the app generates a folder named like `PI_SeqID_UUID`, containi
 - `PI_SeqID_UUID_contrasts.txt`: contrast definitions
 - (Optional) `README.html` or linkable metadata stub
 
-This folder is copied to a public web directory (e.g. `/orange/cancercenter-dept/web/public/data_submissions`) and a corresponding link is displayed to the user.
+This folder is copied to a public web directory (e.g. `/orange/cancercenter-dept/web/public/BCB-SR/project_submissions`) and a corresponding link is displayed to the user.
 
 ---
 
